@@ -1,0 +1,38 @@
+h1{
+	text-align:center;
+}
+body{
+	background-color:#FAEBD7;
+}
+
+img{
+	align:center;
+}
+
+.dark{
+			background-color:black;
+			color:white;
+}		
+.light{
+	background-color:lightgrey;
+	color:black;
+	font:arial;
+}
+h2{
+	text-align:center;
+	background-color:orange;
+	color:white;
+}
+p{
+	padding:20px;
+}
+footer{
+			text-align:right;
+			padding:25px;
+		}
+.solid{
+     border-style:solid;
+     border-color:orange;
+     color:black;
+     
+}		
